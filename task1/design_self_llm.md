@@ -81,3 +81,5 @@
 ### 参考资料
 
 * [Datawhale-AI活动-1.1 零基础定制你的专属大模型](https://www.datawhale.cn/activity/110/21/76?rankingPage=1)
+* [数据处理 - LLaMA Factory](https://llamafactory.readthedocs.io/zh-cn/latest/getting_started/data_preparation.html#alpaca)
+
