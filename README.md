@@ -34,3 +34,4 @@
 ### 📑参考资料
 
 * [Datawhale-微调玩法攻略](https://www.datawhale.cn/activity/110/21/82?rankingPage=1)
+* [llm-action](https://github.com/liguodongiot/llm-action/tree/main)
