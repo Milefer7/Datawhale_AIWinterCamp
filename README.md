@@ -35,3 +35,18 @@
 
 * [Datawhale-微调玩法攻略](https://www.datawhale.cn/activity/110/21/82?rankingPage=1)
 * [llm-action](https://github.com/liguodongiot/llm-action/tree/main)
+
+## :three: 大模型开发
+
+### :shopping_cart:任务
+
+* [Task03-动手学专属自己的大模型-星辰Maas平台作品收集表](https://datawhaler.feishu.cn/share/base/form/shrcnKdzDmY4Eu0Gxe6dqdMae0g)
+
+### 📑参考资料
+
+* [动手学大模型应用开发-Datawhale](https://www.datawhale.cn/learn/content/19/461)
+* 星火认知大模型Web API文档
+  * [Web API文档 ](https://www.xfyun.cn/doc/spark/HTTP调用文档.html#_1-接口说明)
+  * [鉴权URL](https://www.xfyun.cn/doc/spark/general_url_authentication.html#_1-鉴权说明)
+
+## 
