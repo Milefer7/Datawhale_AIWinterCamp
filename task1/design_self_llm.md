@@ -132,3 +132,4 @@
 * [动手学大模型应用开发-课程详情 | Datawhale](https://www.datawhale.cn/learn/content/19/463)
 * [大语言模型 动手学大模型应用开发](https://datawhalechina.github.io/llm-universe/#/C1/1.大语言模型 LLM 理论简介)
 
+[Milefer7/SCUEC-Assistant: LLM SCUEC-学生手册的智能化查询]()

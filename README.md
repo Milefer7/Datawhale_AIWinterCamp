@@ -1,4 +1,4 @@
-# Tasks
+# Tasks-定制专属 AI 大模型
 
 ## :one: 开营预热
 
@@ -9,7 +9,7 @@
 
 ### :thinking: 过程笔记
 
-* [design_self_llm笔记](./task1/design_self_llm.md)
+* [定制大模型-微调笔记](./task1/design_self_llm.md)
 
 ### 📑参考资料
 
@@ -42,6 +42,10 @@
 
 * [Task03-动手学专属自己的大模型-星辰Maas平台作品收集表](https://datawhaler.feishu.cn/share/base/form/shrcnKdzDmY4Eu0Gxe6dqdMae0g)
 
+## :thinking: demo
+
+* [Milefer7/SCUEC-Assistant: LLM SCUEC-学生手册的智能化查询](https://github.com/Milefer7/SCUEC-Assistant)
+
 ### 📑参考资料
 
 * [动手学大模型应用开发-Datawhale](https://www.datawhale.cn/learn/content/19/461)
@@ -49,4 +53,6 @@
   * [Web API文档 ](https://www.xfyun.cn/doc/spark/HTTP调用文档.html#_1-接口说明)
   * [鉴权URL](https://www.xfyun.cn/doc/spark/general_url_authentication.html#_1-鉴权说明)
 
-## 
+# Tasks- AI Agent
+
+## :four: 大模型开发
